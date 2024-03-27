@@ -8,8 +8,5 @@
 <body>
     <h1>Minha Página do GitHub</h1>
     <p>Bem-vindo à minha página!</p>
-    <p><a href="sobre.html">Sobre Mim</a></p>
-    <p><a href="portfolio.html">Meu Portfolio</a></p>
-    <p><a href="contato.html">Entre em Contato</a></p>
 </body>
 </html>
